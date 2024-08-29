@@ -1,4 +1,3 @@
-
 mkdir project1
 cd project1
 which python ( print environement in this case is default virtual environment)

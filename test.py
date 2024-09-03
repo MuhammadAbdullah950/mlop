@@ -11,3 +11,6 @@ def test_divode():
 
 def test_multiply():
     assert multiplication(2,2)==4
+
+def test_multiply2():
+    assert multiplication(2,4)==8
